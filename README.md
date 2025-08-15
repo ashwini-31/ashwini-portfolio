@@ -2,7 +2,7 @@
 
 Welcome to the repository for my **personal portfolio website**, built to showcase my skills, projects, and experience in a clean, modern, and responsive design.
 
- **Live Demo:** [View Portfolio](https://ashwini-31.github.io/ashwini-portfolio)  
+ **Live Demo:** [View Portfolio]( https://ashwini-31.github.io/ashwini-portfolio/)  
  **GitHub Repo:** [Portfolio Source Code](https://github.com/ashwini-31/ashwini-portfolio)
 
 ---
